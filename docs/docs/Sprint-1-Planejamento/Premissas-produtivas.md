@@ -8,7 +8,7 @@ sidebar_position: 4
 
 Este documento consolida as premissas técnicas que serão usadas como *input* para a Sprint 2: Modelagem Financeira.
 
-## Premissas (Baseadas no [Estudo de Referência](1-estudo-de-referencia/1.3-benchmarks-e-dunito))
+## Premissas (Baseadas no [Estudo de Referência](/sprint-1/estudo-de-referencia))
 
 ### 1. Premissas do Café (Arábica)
 * **Densidade de Plantio:** X pés/hectare
@@ -27,11 +27,15 @@ Este documento consolida as premissas técnicas que serão usadas como *input* p
 * **Ganho Médio Diário (GMD):** Y kg/dia
 * **Ciclo (Compra/Venda):** Z meses
 
-### 4. Premissas de Manejo [cite: 103]
-* **Manejo do Solo:** (Ex: Plantio direto, uso do Dunito[cite: 12], etc.)
+### 4. Premissas de Manejo
+* **Manejo do Solo:** (Ex: Plantio direto, uso do Dunito, etc.)
 * **Manejo de Cobertura:** (Ex: Braquiária nas entrelinhas)
 * **Integração Animal:** (Ex: Pastejo rotacionado pós-colheita do café)
 
-### 5. Premissas de Preservação [cite: 103]
+### 5. Premissas de Preservação
 * **Área de Reserva Legal:** (Ex: 20% da propriedade)
 * **Áreas de Preservação Permanente (APP):** (Ex: Matas ciliares, topos de morro)
+
+## Referências
+
+Consulte o [Estudo de Referência](/sprint-1/estudo-de-referencia) para mais detalhes sobre as bases técnicas e científicas destas premissas.
