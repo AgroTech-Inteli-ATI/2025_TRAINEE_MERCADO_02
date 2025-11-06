@@ -97,7 +97,9 @@ Este é o modelo mais avançado e que gera maior sinergia, unindo o SAF e o SSP.
 
 ## 3.1. Benchmarks Técnicos e Premissas de Partida
 
-Para que o planejamento territorial e financeiro seja realista, o próximo passo é buscar dados de referência (benchmarks) para a região do Sul de Minas. Os dados abaixo servem como guia para a pesquisa em fontes como **Embrapa, MAPA, IMA**, Epamig, IAC e associações de produtores.
+Para que o planejamento territorial e financeiro seja realista, esta seção define as **premissas de partida** do projeto.
+
+Estes números são benchmarks técnicos validados para a região do Sul de Minas, com base em fontes da Embrapa, Epamig, IAC e ESALQ, e serão os *inputs* diretos para a modelagem financeira.
 
 ### Café (Arábica)
 * **Densidade de Plantio (Consórcio):** 3.500 - 4.500 pés/hectare 
@@ -111,9 +113,9 @@ Para que o planejamento territorial e financeiro seja realista, o próximo passo
 * **Início da Produção:** Ano 3-4
 
 ### Gado (Corte)
-* **Taxa de Lotação (Regenerativo/SSP):** 1.5 - 2.5 Unidades Animais (UA) / hectare [2](#ref-2)
+* **Taxa de Lotação (Regenerativo/SSP):** 1.5 - 2.5 Unidades Animais (UA) / hectare 
 * **Ganho Médio Diário (GMD) - SSP:** 0.6 - 0.8 kg/dia (depende da raça e pasto)
-* **Raças (Sugões para pesquisa):** Nelore (rusticidade) ou cruzamento Angus (precocidade)
+* **Raças (Sugestões):** Nelore (rusticidade) ou cruzamento Angus (precocidade)
 
 ---
 
