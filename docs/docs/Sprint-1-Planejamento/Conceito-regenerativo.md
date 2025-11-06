@@ -1,6 +1,6 @@
 ---
 slug: /sprint-1/estudo-de-referencia
-title: 1. Estudo de Referência
+title:  Agricultura Regenerativa e Sistemas Integrados
 sidebar_position: 1
 ---
 
