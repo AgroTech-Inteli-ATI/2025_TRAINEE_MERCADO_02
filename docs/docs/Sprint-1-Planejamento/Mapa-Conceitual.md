@@ -63,12 +63,7 @@ Abaixo, o mapa conceitual da fazenda, com a sobreposição das áreas delimitada
 ## 4. Interpretação Conceitual
 
 O **Mapa Conceitual** não representa apenas a divisão física da fazenda, mas sim a **integração funcional entre os sistemas produtivos**.  
-Ele orienta as próximas etapas de planejamento — modelagem financeira e certificações — garantindo coerência entre **uso do solo**, **objetivos de sustentabilidade** e **aplicação dos insumos Agrominas**.
+Ele orienta as próximas etapas de planejamento — modelagem financeira e certificações, garantindo coerência entre **uso do solo**, **objetivos de sustentabilidade** e **aplicação dos insumos Agrominas**.
 
 ---
 
-## 5. Próximos Passos
-
-- Validação dos limites e altitudes no **QGIS**;  
-- Geração de mapa de declividade e drenagem para ajuste de zonas produtivas;  
-- Exportação do arquivo consolidado em `.kml` e `.geojson` para integração ao **protótipo visual (Sprint 3)**.
