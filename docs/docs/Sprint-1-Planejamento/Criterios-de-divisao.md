@@ -50,6 +50,7 @@ DONADIO, L. C. ABACATE PARA EXPORTAÇAO: , ASPECTOS TECNICOS - DA PRODUÇAO. 2 E
 ### Informações sobre o café:
 MAGNO DE MESQUITA, C.; EUDES DE REZENDE, J.; CARVALHO, J. S. MANUAL DO CAFÉ Manejo de Cafezais Em Produção. Minas Gerais: EMATER, abr. 2016. Disponível em: http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/livro_manejo_cafezais_producao.pdf. Acesso em: 4 nov. 2025.
 RAMOS ALVES, H. M.; LORDELO VOLPATO, M. M. Efeitos das características ambientais na qualidade do café. Informe Agropecuário—[s.l: s.n.].
+MAGNO MESQUITA, C. MANUAL DO CAFÉ Implantação de cafezais. [s.l: s.n.]. Disponível em: http://www.sapc.embrapa.br/arquivos/consorcio/publicacoes_tecnicas/livro_implantacao_cafezais.pdf.
 
 ### Informações sobre o gado:
 CASTAGNA, A.; ARONOVICH, M.; RODRIGUES, E. 0 Niterói-RJ julho de 2008. Niterói - RJ: Programa Rio Rural, jul. 2008. Disponível em: https://ibeasa.org/wp-content/uploads/2021/01/Pastoreio-Racional.pdf. Acesso em: 6 nov. 2025.
