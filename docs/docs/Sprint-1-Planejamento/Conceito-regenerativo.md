@@ -11,11 +11,10 @@ sidebar_position: 1
 &emsp;Este estudo é o alicerce para responder a essas perguntas. As premissas aqui definidas serão a base para a modelagem financeira e para o mapa de divisão de áreas.
 
 
-::::info Objetivo deste Estudo O nosso objetivo é definir o modelo e as premissas para responder às perguntas-chave do projeto:
+:::info Objetivo deste Estudo O nosso objetivo é definir o modelo e as premissas para responder às perguntas-chave do projeto:
 1. Quanto tempo até o breakeven e quanto de lucro o modelo pode gerar?
 2. Quais as melhores práticas de integração (a sinergia) entre Café, Abacate e Gado?
 3. Como será a divisão de áreas (o mapa) para otimizar este resultado? 
-
 :::
 
 ### O que você encontrará nesta seção:
