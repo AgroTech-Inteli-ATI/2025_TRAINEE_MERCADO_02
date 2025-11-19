@@ -102,7 +102,7 @@ Considerando o sistema ILPF, a prioridade é definida pelo impacto no modelo de 
 | :-- | :--: | :--: | :--: | :-- |
 | **Carbono Neutro** | **Altíssima** | 1-2 anos | R$ 9.000 | Valida a carne sustentável |
 | **Rainforest** | **Alta** | 1 ano | R$ 6.000 | Acesso mercado Europeu (Café/Abacate) |
-| **Orgânica** | **Média** | 2-3 anos | R$ 6.000 | Premium de preço (Mercado Interno) |
+| **Orgânica** | **Média** | 1 anos | R$ 6.000 | Premium de preço (Mercado Interno) |
 | **Fair Trade** | **Média** | 1 ano | R$ 7.800 | Responsabilidade Social |
 
 ## Fontes:
