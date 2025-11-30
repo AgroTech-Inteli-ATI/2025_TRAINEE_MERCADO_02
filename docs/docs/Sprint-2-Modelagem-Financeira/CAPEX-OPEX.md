@@ -101,7 +101,7 @@ A seguir, o CAPEX está **dividido por categoria**, com subtotais e total final.
 - Café: A1–A4 = 9.000/ha; A5–A10 = 18.100/ha  
 - Abacate: A1–A3 = 4.000/ha; A4–A6 = 7.000/ha; A7–A10 = 10.000/ha  
 - Pecuária: 30 cabeças × 900/cab/ano  
-- Fator de inflação: \(1,05^{t-1}\)  
+- Fator de inflação: fórmula do fator = 1,05^(ano − 1) 
 
 **Custos fixos anuais (com encargos):**  
 - Manutenção máquinas: 15.000  
