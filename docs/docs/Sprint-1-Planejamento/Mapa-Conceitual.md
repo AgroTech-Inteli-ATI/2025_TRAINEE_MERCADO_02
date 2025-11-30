@@ -49,7 +49,7 @@ Com base na análise geográfica, as áreas foram agrupadas em **cinco sistemas 
 
 Abaixo, o mapa conceitual da fazenda, com a sobreposição das áreas delimitadas (A–G) sobre a imagem de satélite:
 
-![Mapa Conceitual da Fazenda Modelo](./img/mapa_conceitual_fazenda.jpg)
+
 
 **Legenda:**
 -  **Verde:** SAF – Café + Abacate  

@@ -24,7 +24,7 @@ As informações aqui descritas foram definidas a partir do [Estudo de Referênc
 | B | 2,80 ha | Risco Moderado de Geada (950m–1050m) | SAF (Abacate) |
 | C | 10,70 ha | Acima de 1050m. Segura para SAF. | SAF (Café) |
 | D | 4,00 ha | Parte Alta: Pedra / Parte Baixa: Gado | SSP Pecuária (Baixa) |
-| E | 5,55 ha | Transição (>950m / <950m) | SAF e SSP |
+| E | 5,55 ha | Transição (&gt;950m / &lt;950m) | SAF e SSP |
 | F | 3,55 ha | Abaixo de 900m. Só Gado. | SSP Pecuária |
 | G | 5,43 ha | Abaixo de 900m. Só Gado. | SSP Pecuária |
 | **TOTAL GERAL DA FAZENDA** | **36,43 ha** | — | — |
@@ -50,7 +50,8 @@ As informações aqui descritas foram definidas a partir do [Estudo de Referênc
 |--------------------------|----------------|------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------|
 | CAFÉ ARÁBICA (SAF)       | 13,47 ha       | Área C (10,70 ha) + Área E Superior (2,77 ha)        | 39,1%       | Alocação na altitude mais alta (>950m) para segurança máxima contra geadas.                                 |
 | ABACATE HASS (SAF)       | 7,20 ha        | Áreas A (4,40 ha) + B (2,80 ha)                      | 20,9%       | Uso de áreas de risco moderado (950m–1050m). O abacateiro possui resiliência levemente superior ao café.    |
-| SSP PECUÁRIA             | 13,75 ha       | Áreas F, G, D Baixa e E Inferior                     | 40,0%       | Uso de áreas de baixa altitude (<900m) e restrição (terrenos pedregosos/declivosos), reduzindo custos.       |
+| SSP PECUÁRIA             | 13,75 ha       | Áreas F, G, D Baixa e E Inferior                     | 40,0%       | Uso de áreas de baixa altitude (&lt;900m) e restrição (terrenos pedregosos/declivosos), reduzindo custos. |
+    |
 | **TOTAL PRODUTIVO**      | **34,42 ha**   | —                                                    | **100%**    | —                                                                                                            |
 | Áreas de Apoio/Restrição | 3,01 ha        | Áreas de Pedras (D Alta), Estradas, APP/RL (a definir) | —           | —                                                                                                            |
 
