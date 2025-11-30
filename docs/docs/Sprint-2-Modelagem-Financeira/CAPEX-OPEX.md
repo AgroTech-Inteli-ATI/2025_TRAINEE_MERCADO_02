@@ -1,104 +1,184 @@
 ---
 sidebar_position: 2
 slug: /sprint-2/capex-opex
-title:  Planilha de CAPEX e OPEX 
-description: "Template para planilha de investimentos e custos operacionais projetados"
+title: Planilha de CAPEX e OPEX
+description: "Premissas financeiras, CAPEX, OPEX e receitas projetadas para a Fazenda Modelo (Área Total: 36,43 ha) — versão revisada"
 ---
 
-# 1. Planilha de CAPEX e OPEX Projetados (10 anos)
+# 1. Introdução
 
-Este documento consolida o investimento de capital (CAPEX) e os custos operacionais (OPEX) do projeto **Fazenda Modelo Agrominas**, considerando 30 ha SAF irrigado (20 ha Café + 10 ha Abacate) e 15 ha SSP Pecuária Regenerativa, para um horizonte de 10 anos.
+Este documento consolida as premissas financeiras (CAPEX, OPEX) do projeto **Fazenda Modelo Agrominas**.
 
-## 1.1. Fundamentos Teóricos Financeiros
-
-- **CAPEX (Capital Expenditure):** gastos com aquisição ou melhoria de ativos fixos, que geram benefícios econômicos ao longo de vários anos.  
-- **OPEX (Operational Expenditure):** custos operacionais recorrentes, deduzidos integralmente das receitas, relacionados à operação diária da fazenda.
-
-## 1.2. Premissas Financeiras
-
-- Taxa de desconto (TMA): 20% a.a.  
-- Inflação projetada: 5% a.a. (aplicada sobre OPEX e receitas).  
-- Impostos FUNRURAL: 1,5% sobre receita bruta.  
-- Prêmio de certificação: +15% sobre receitas de Café e Abacate.  
-- Horizonte de análise: 10 anos.
+- **Área Total:** 36,43 ha  
+- **Área Produtiva:** 34,42 ha  
+  - SAF Café Arábica: 13,47 ha  
+  - SAF Abacate Hass: 7,20 ha  
+  - SSP Pecuária Regenerativa: 13,75 ha
 
 ---
 
-# 2. CAPEX — Investimentos Projetados (Ano 0)
+# 2. Premissas Financeiras
 
-| Categoria | Item | Quantidade | Valor Unitário (R$) | Total (R$) | Observação |
-|-----------|------|-----------|-------------------|------------|------------|
-| Preparação de Solo | Preparo completo | 45 ha | 3.000 | 135.000 | Calagem, gessagem e correção física |
-| Pastagem SSP | Formação pastagem | 15 ha | 4.000 | 60.000 | Semeadura direta regenerativa |
-| Irrigação | Gotejamento SAF | 30 ha | 10.000 | 300.000 | Café + Abacate |
-| Café | Mudas | 100.000 un | 5,00 | 500.000 | 5.000 un/ha |
-| Abacate | Mudas | 1.500 un | 22,00 | 33.000 | 150 un/ha |
-| Pecuária | Bezerros | 30 cabeças | 3.100 | 93.000 | Compra inicial 7–8 meses |
-| Cercas | Arame liso 5 fios | 5.000 m | 35,00 | 175.000 | Módulos rotacionados SSP |
-| Infraestrutura Pecuária | Curral básico | 1 pacote | 35.000 | 35.000 | Curral, balança, bebedouros |
-| Galpão/Armazém | Estrutura metálica + piso | 100 m² | 900 | 90.000 | Armazenagem |
-| Compostagem | Área + terraplanagem | 1 pacote | 15.000 | 15.000 | Pátio e preparação |
-| Máquinas/Equipamentos | Trator 75 cv | 1 | 280.000 | 280.000 | Concessionária |
-| Máquinas/Equipamentos | Roçadeira agrícola | 1 | 18.000 | 18.000 |  |
-| Máquinas/Equipamentos | Distribuidor de composto 6 t | 1 | 37.000 | 37.000 |  |
-| Máquinas/Equipamentos | Carreta basculante | 1 | 25.000 | 25.000 |  |
-| Máquinas/Equipamentos | Pulverizador acoplado | 1 | 15.000 | 15.000 |  |
-| **Total CAPEX** |  |  |  | **1.811.000** | Ano 0 |
+- **Taxa de desconto (TMA)**: 12–15% recomendada.  
+- **Inflação**: 5% a.a. (composta, aplicada a custos e preços).  
+- **FUNRURAL**: 1,5% sobre receita bruta.  
+- **Prêmio de certificação**: progressivo +5% → +15%.  
+- **Horizonte de análise**: 10 anos.  
+- **Pecuária adotada**: 30 cabeças.  
+- **Custo pecuário base usado aqui**: R$ 900/cabeça/ano.
 
 ---
 
-# 3. OPEX — Custos Operacionais Anuais
+# 3. CAPEX — Investimentos Iniciais (Ano 0)
 
-## 3.1. Café (20 ha)
-
-| Ano | Custo/ha (R$) | Total (R$) |
-|-----|---------------|------------|
-| 1–4 | 9.000 | 180.000 |
-| 5–10 | 18.100 | 362.000 |
-
-## 3.2. Abacate (10 ha)
-
-| Ano | Custo/ha (R$) | Total (R$) |
-|-----|---------------|------------|
-| 1–3 | 4.000 | 40.000 |
-| 4–6 | 7.000 | 70.000 |
-| 7–10 | 10.000 | 100.000 |
-
-## 3.3. Pecuária (30 cabeças)
-
-| Ano | Custo/animal (R$) | Total (R$) |
-|-----|-----------------|------------|
-| 1–10 | 600 | 18.000 |
-
-## 3.4. Insumos, Mão de Obra e Custos Gerais
-
-| Item | Custo Anual (R$) | Observação |
-|------|-----------------|------------|
-| Dunito (Mg) | 109/t | Principal corretivo |
-| Calcário dolomítico | 255/t | Corretivo de solo |
-| NPK 20-05-20 | 2.500/t | Fertilizante |
-| Mão de obra fixa | 2.140/mês + encargos | Operador de trator |
-| Manutenção máquinas | 15.000 | Anual |
-| Certificações | 5.000 | Anual |
-| Diesel S10 | 5,98/l | Variável |
-| Energia rural | 0,73/kWh | Variável |
+A seguir, o CAPEX está **dividido por categoria**, com subtotais e total final.
 
 ---
 
-# 4. Receita Operacional Bruta (ROB)
+## 3.1. Infraestrutura Agrícola (Solo, Pastagem, Irrigação)
 
-| Ano | Café (R$/saca) | Abacate (R$/kg) | Gado (@) | Receita Café | Receita Abacate | Receita Pecuária | ROB Total |
-|-----|----------------|-----------------|----------|-------------|----------------|-----------------|-----------|
-| 1   | 2.760          | 4,60            | 301      | 0           | 0              | 0               | 0         |
-| 2   | 2.898          | 4,83            | 306      | 0           | 0              | 73.440          | 73.440    |
-| 3   | 3.043          | 5,07            | 312      | 124.848     | 0              | 74.909          | 199.757   |
-| 4   | 3.195          | 5,33            | 318      | 381.960     | 185.712        | 76.407          | 644.079   |
-| 5   | 3.355          | 5,59            | 325      | 778.752     | 378.851        | 77.935          | 1.234.538 |
-| 6   | 3.523          | 5,87            | 331      | 1.059.912   | 579.642        | 79.494          | 1.719.048 |
-| 7   | 3.699          | 6,16            | 338      | 1.081.120   | 785.314        | 81.084          | 1.947.518 |
-| 8   | 3.884          | 6,47            | 345      | 1.102.560   | 804.080        | 82.706          | 1.989.346 |
-| 9   | 4.078          | 6,79            | 352      | 1.124.800   | 820.162        | 84.360          | 2.029.322 |
-| 10  | 4.282          | 7,13            | 359      | 1.147.296   | 836.566        | 86.048          | 2.069.910 |
+| Item                                  | Quantidade | Valor Unit. (R$) | Total (R$) |
+|--------------------------------------|-----------:|------------------:|-----------:|
+| Preparo do solo                      | 34,42 ha   | 3.000             | 103.260    |
+| Formação de pastagem (SSP)           | 13,75 ha   | 4.000             | 55.000     |
+| Irrigação por gotejamento (SAF)      | 20,67 ha   | 10.000            | 206.700    |
+| **Subtotal Infraestrutura Agrícola** | —          | —                 | **364.960** |
+
+---
+
+## 3.2. Material Vegetal (Mudas)
+
+| Item                   | Quantidade | Valor Unit. (R$) | Total (R$) |
+|-----------------------|-----------:|------------------:|-----------:|
+| Mudas de café         | 67.350 un  | 5,00              | 336.750    |
+| Mudas de abacate      | 1.080 un   | 22,00             | 23.760     |
+| **Subtotal Mudas**    | —          | —                 | **360.510** |
+
+---
+
+## 3.3. Pecuária (Animais e Estruturas)
+
+| Item                     | Quantidade | Valor Unit. (R$) | Total (R$) |
+|--------------------------|-----------:|------------------:|-----------:|
+| Bezerros / material vivo | 30 cabeças | 3.100             | 93.000     |
+| Cercas (5 fios)          | 5.000 m    | 35,00             | 175.000    |
+| Curral                   | 1          | 35.000            | 35.000     |
+| Galpão / Armazém         | 100 m²     | 900               | 90.000     |
+| Compostagem              | 1          | 15.000            | 15.000     |
+| **Subtotal Pecuária**    | —          | —                 | **408.000** |
+
+---
+
+## 3.4. Máquinas e Equipamentos
+
+| Item                        | Quantidade | Valor Unit. (R$) | Total (R$) |
+|-----------------------------|-----------:|------------------:|-----------:|
+| Trator 75 cv                | 1          | 280.000           | 280.000    |
+| Roçadeira agrícola          | 1          | 18.000            | 18.000     |
+| Distribuidor de composto 6 t| 1          | 37.000            | 37.000     |
+| Carreta basculante          | 1          | 25.000            | 25.000     |
+| Pulverizador acoplado       | 1          | 15.000            | 15.000     |
+| **Subtotal Máquinas**       | —          | —                 | **375.000** |
+
+---
+
+## **3.5. CAPEX Total Consolidado**
+
+| Categoria                   | Total (R$)   |
+|-----------------------------|--------------|
+| Infraestrutura Agrícola     | 364.960      |
+| Mudas                       | 360.510      |
+| Pecuária                    | 408.000      |
+| Máquinas e Equipamentos     | 375.000      |
+| **CAPEX TOTAL**             | **1.508.470** |
+
+---
+
+# 4. OPEX — Custos Operacionais (Ano a Ano com inflação 5%)
+
+**Premissas para OPEX:**
+
+- Café: A1–A4 = 9.000/ha; A5–A10 = 18.100/ha  
+- Abacate: A1–A3 = 4.000/ha; A4–A6 = 7.000/ha; A7–A10 = 10.000/ha  
+- Pecuária: 30 cabeças × 900/cab/ano  
+- Fator de inflação: \(1,05^{t-1}\)  
+
+**Custos fixos anuais (com encargos):**  
+- Manutenção máquinas: 15.000  
+- Certificações: 5.000  
+- Mão de obra fixa (com encargos): 33.384  
+- **Total fixo anual:** 53.384
+
+---
+
+## 4.1. Café — custo anual (13,47 ha)
+
+| Ano | V.U. nominal | Fator infl. | Total café (R$) |
+|----:|-------------:|------------:|----------------:|
+| 1 | 9.000  | 1,0000 | 121.230 |
+| 2 | 9.000  | 1,0500 | 127.292 |
+| 3 | 9.000  | 1,1025 | 133.656 |
+| 4 | 9.000  | 1,1576 | 140.339 |
+| 5 | 18.100 | 1,2155 | 296.349 |
+| 6 | 18.100 | 1,2763 | 311.166 |
+| 7 | 18.100 | 1,3401 | 326.725 |
+| 8 | 18.100 | 1,4071 | 343.061 |
+| 9 | 18.100 | 1,4775 | 360.214 |
+|10 | 18.100 | 1,5513 | 378.225 |
+
+---
+
+## 4.2. Abacate — custo anual (7,20 ha)
+
+| Ano | V.U. nominal | Fator infl. | Total abacate (R$) |
+|----:|-------------:|------------:|-------------------:|
+| 1 | 4.000  | 1,0000 | 28.800 |
+| 2 | 4.000  | 1,0500 | 30.240 |
+| 3 | 4.000  | 1,1025 | 31.752 |
+| 4 | 7.000  | 1,1576 | 58.344 |
+| 5 | 7.000  | 1,2155 | 61.262 |
+| 6 | 7.000  | 1,2763 | 64.325 |
+| 7 |10.000  | 1,3401 | 96.487 |
+| 8 |10.000  | 1,4071 | 101.311 |
+| 9 |10.000  | 1,4775 | 106.377 |
+|10 |10.000  | 1,5513 | 111.696 |
+
+---
+
+## 4.3. Pecuária — custo anual (30 cabeças × R$900)
+
+| Ano | Total pecuária (R$) |
+|----:|--------------------:|
+| 1 | 27.000 |
+| 2 | 28.350 |
+| 3 | 29.768 |
+| 4 | 31.256 |
+| 5 | 32.819 |
+| 6 | 34.460 |
+| 7 | 36.183 |
+| 8 | 37.992 |
+| 9 | 39.891 |
+|10 | 41.886 |
+
+---
+
+## 4.4. OPEX Total Anual (variáveis + fixos)
+
+| Ano | Café | Abacate | Pecuária | Fixos | **OPEX Total (R$)** |
+|----:|-----:|--------:|---------:|------:|--------------------:|
+| 1 | 121.230 | 28.800  | 27.000  | 53.384 | **230.414** |
+| 2 | 127.292 | 30.240  | 28.350  | 53.384 | **239.266** |
+| 3 | 133.656 | 31.752  | 29.768  | 53.384 | **248.560** |
+| 4 | 140.339 | 58.344  | 31.256  | 53.384 | **283.323** |
+| 5 | 296.349 | 61.262  | 32.819  | 53.384 | **443.814** |
+| 6 | 311.166 | 64.325  | 34.460  | 53.384 | **463.335** |
+| 7 | 326.725 | 96.487  | 36.183  | 53.384 | **512.779** |
+| 8 | 343.061 | 101.311 | 37.992  | 53.384 | **535.748** |
+| 9 | 360.214 | 106.377 | 39.891  | 53.384 | **559.866** |
+|10 | 378.225 | 111.696 | 41.886  | 53.384 | **585.191** |
+
+---
+
 
 
 ## Referências do Estudo
