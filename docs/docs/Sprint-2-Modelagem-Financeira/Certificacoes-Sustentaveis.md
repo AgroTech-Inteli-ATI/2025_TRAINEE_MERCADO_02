@@ -94,40 +94,6 @@ O selo Fair Trade endereça o pilar social da sustentabilidade (o "S" do ESG), f
 
 ---
 
-### 5. Certifica Minas (Café e Frutas)
-O Programa de Certificação de Produtos Agropecuários (Certifica Minas), coordenado pela SEAPA e executado pelo IMA e EMATER, é a principal chancela governamental de qualidade e rastreabilidade no estado.
-
-* **Relevância para a Agrominas:** Como a propriedade está inserida em um contexto geográfico onde a cafeicultura é patrimônio cultural, este selo atesta que a produção cumpre rigorosamente a legislação ambiental e trabalhista brasileira, servindo como base sólida para todas as demais certificações internacionais.
-* **Valor Agregado:** Oferece rastreabilidade garantida ao consumidor e facilita o acesso a políticas públicas estaduais. Além disso, o selo agrega valor de "origem" (Terroir Mineiro), atributo altamente valorizado no mercado interno de cafés especiais e frutas de mesa.
-
-**Estimativa de Custos (80ha):**
-
-| Item | Custo Inicial (Ano 1) | Custo Recorrente (Anual) | Observações |
-| :--- | :--- | :--- | :--- |
-| **Taxa de Adesão** | R$ 250,00 | R$ 250,00 | Valor administrativo simbólico. |
-| **Auditoria (Credenciada)** | R$ 2.800,00 | R$ 2.800,00 | Auditoria de terceira parte. |
-| **Adequação/Consultoria** | R$ 1.500,00 | - | Apoio técnico (Muitas vezes via EMATER). |
-| **TOTAL** | **R$ 4.550,00** | **R$ 3.050,00** | **Baixo custo, alto reconhecimento local.** |
-
----
-
-### 6. GlobalG.A.P. (Good Agricultural Practices)
-O GlobalG.A.P. é a norma de referência mundial para Boas Práticas Agrícolas, sendo pré-requisito mandatório para exportação de produtos frescos ("in natura") para a União Europeia.
-
-* **Relevância para a Agrominas:** É fundamental, especificamente para a cultura do **Abacate**. Enquanto o café pode ser exportado com Rainforest/FairTrade, o mercado internacional de frutas frescas exige garantias estritas de segurança alimentar (*food safety*), rastreabilidade e higiene que apenas o GlobalG.A.P. provê.
-* **Valor Agregado:** Atua como um "passaporte de exportação". Sem ele, o acesso às grandes redes varejistas europeias é vetado. Garante ao comprador que o abacate da Agrominas não possui resíduos químicos acima do permitido e não oferece riscos biológicos.
-
-**Estimativa de Custos (80ha):**
-
-| Item | Custo Inicial (Ano 1) | Custo Recorrente (Anual) | Observações |
-| :--- | :--- | :--- | :--- |
-| **Licença/Registro** | R$ 1.800,00 | R$ 1.800,00 | Baseado na tonelagem/área (estimado). |
-| **Auditoria Certificadora** | R$ 7.500,00 | R$ 7.500,00 | Auditoria rigorosa (foco em Food Safety). |
-| **Consultoria Especializada**| R$ 8.000,00 | R$ 3.000,00 | Preparação do Sistema de Gestão da Qualidade. |
-| **TOTAL** | **R$ 17.300,00** | **R$ 12.300,00** | **Investimento crucial para exportar Abacate.** |
-
----
-
 ## Matriz de Priorização
 
 Considerando o sistema ILPF, a prioridade é definida pelo impacto no modelo de negócio.
@@ -138,9 +104,6 @@ Considerando o sistema ILPF, a prioridade é definida pelo impacto no modelo de 
 | **Rainforest** | **Alta** | 1 ano | R$ 6.000 | Acesso mercado Europeu (Café/Abacate) |
 | **Orgânica** | **Média** | 1 anos | R$ 6.000 | Premium de preço (Mercado Interno) |
 | **Fair Trade** | **Média** | 1 ano | R$ 7.800 | Responsabilidade Social |
-| **Certifica Minas** | **Baixa** | 1 ano | R$ 4.550,00 | Responsabilidade Social |
-| **GlobalG.A.P.** | **Baixa** | 1 ano | R$ 17.300,00 | Responsabilidade Social |
-
 
 ## Fontes:
 
@@ -148,5 +111,3 @@ Considerando o sistema ILPF, a prioridade é definida pelo impacto no modelo de 
 2.  <span id="ref-2"></span>**(Selo Carbono Neutro)** Selo neutro de carbono. Ibdn*. [Link da Publicação](https://ibdn.org.br/selo-neutro-de-carbono/).
 3.  <span id="ref-3"></span>**(Produto Orgânico)** Produto Orgânico. SisOrg*. [Link da Publicação](https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/organicos/o-que-sao-produtos-organicos).
 4.  <span id="ref-4"></span>**(Fair Trade)** Certificado Fair Trade, Fair Trade*. [Link da Publicação](https://www.fairtrade.net/iberica-pt/empresas/certificacao-fairtrade.html).
-5.  <span id="ref-5"></span>**(Certifica Minas)** Certifica Minas. Gov*. [Link da Publicação](https://www.agricultura.mg.gov.br/certificaminas/website/index.php/programa-cert/sobre-o-certifica-minas).
-6. <span id="ref-6"></span>**(GlobalG.A.P.)** GlobalG.A.P. What is GlobalG.A.P.*. [Link da Publicação](https://www.globalgap.org/uk_en/what-we-do/).
