@@ -13,18 +13,22 @@ O objetivo é representar a **projeção de uso do solo** e a **distribuição d
 
 ## 1. Base Territorial e Fonte de Dados
 
-A base geoespacial foi disponibilizada pela **Agrominas Fertilizantes** e contém as delimitações das áreas produtivas identificadas no Google Earth Pro.  
-Cada polígono foi classificado com base no tipo de uso proposto (Café, Abacate, Pecuária Regenerativa e Áreas de Preservação).
+A base geoespacial foi analisada e adaptada considerando as restrições ambientais e de solo. A área total da fazenda é de 36,43 hectares, sendo 34,42 hectares de área produtiva e 3,01 hectares destinados a áreas de apoio e restrições ambientais. A classificação das áreas foi atualizada conforme as premissas produtivas definidas.
 
-**Arquivos utilizados:**
-- `Fazenda_Agrominas.kml` — polígonos principais da propriedade (áreas A a G);
-- `Limite_Territorial.kml` — contorno geral da fazenda.
+**Características da Área Produtiva:**  
+- **Localização:** Sul de Minas Gerais, município de São Bento Abade (MG)  
+- **Área Total da Fazenda:** 36,43 hectares  
+- **Área Produtiva Útil:** 34,42 hectares  
+- **Áreas de Apoio/Restrição:** 3,01 hectares
+- **Altitude Média:** 939m (variação de 850m a 1050m)  
+- **Clima:** Tropical de altitude  
+- **Solo:** Bem drenado, com profundidade superior a 1 metro  
+- **Precipitação Média Anual:** 1.500mm
 
-**Localização aproximada:**  
-Sul de Minas Gerais, município de São Bento Abade (MG), região de Lavras e Varginha.  
-Coordenadas centrais: **23K 463389.79 m E / 7580621.7 m S**  
-Altitude média: **~939 m**  
-Fonte das imagens: **Maxar Technologies (agosto/2023)**.
+**Critérios de Zoneamento:**  
+- **Acima de 950m:** Cultivo de café (áreas C e E Superior)  
+- **Entre 900-950m:** Cultivo de abacate (áreas A e B)  
+- **Abaixo de 900m:** Pecuária regenerativa (áreas F, G, D Baixa e E Inferior)
 
 ---
 
@@ -34,12 +38,13 @@ Com base na análise geográfica, as áreas foram agrupadas em **cinco sistemas 
 
 | Uso do Solo | Áreas Correspondentes | Área Total (ha) | Percentual (%) | Observações |
 | :--- | :--- | ---: | ---: | :--- |
-| **Sistema 1: SAF (Café + Abacate)** | A, B, C | 17,9 | 35% | Sistemas agroflorestais com integração de culturas perenes. |
-| **Sistema 2: SSP (Pecuária + Nativas)** | D, E | 9,55 | 19% | Pastagens regenerativas com corredores ecológicos. |
-| **Sistema 3: ILPF (Integração Total)** | F | 3,55 | 7% | Integração Lavoura-Pecuária-Floresta experimental. |
-| **Área de Preservação (APP + Reserva)** | G + margens | 5,43 | 10% | Preservação de nascentes e mata ciliar. |
-| **Infraestrutura (Sede, Estradas, Galpões)** | Trechos lineares e zona central | 15,0 | 29% | Inclui acessos internos, sede e áreas de circulação. |
-| **TOTAL** | — | **51,43 ha** | **100%** | — |
+| **Café Arábica (SAF)** | C (10,70 ha) + E Superior (2,77 ha) | 13,47 | 39,1% | Cultivo em áreas acima de 950m de altitude, com proteção contra geadas. |
+| **Abacate Hass (SAF)** | A (4,40 ha) + B (2,80 ha) | 7,20 | 20,9% | Cultivado em áreas de risco moderado (950m-1050m) com proteção contra ventos. |
+| **SSP Pecuária** | F (3,55 ha) + G (5,43 ha) + D Baixa + E Inferior | 13,75 | 40,0% | Pastoreio racional voisin em áreas abaixo de 900m. |
+| **Áreas de Apoio/Restrição** | Pedras, estradas, APP/RL | 3,01 | 8,7% | Inclui áreas de pedras, infraestrutura e preservação permanente. |
+| **TOTAL PRODUTIVO** | — | **34,42 ha** | **94,5%** | Área produtiva total considerando o redimensionamento. |
+| **Áreas de Apoio/Restrição** | — | **2,01 ha** | **5,5%** | Inclui áreas de pedras, infraestrutura e preservação permanente. |
+| **TOTAL GERAL** | — | **36,43 ha** | **100%** | Área total da propriedade. |
 
 *(Valores aproximados, obtidos via medição poligonal no Google Earth Pro.)*
 
@@ -52,11 +57,11 @@ Abaixo, o mapa conceitual da fazenda, com a sobreposição das áreas delimitada
 
 
 **Legenda:**
--  **Verde:** SAF – Café + Abacate  
--  **Azul:** SSP – Pecuária Regenerativa  
--  **Amarelo:** ILPF Experimental  
--  **Vermelho:** Infraestrutura e Sede  
--  **Cinza-esverdeado:** APP e Reserva Legal  
+-  **Verde:** Café Arábica (13,47 ha)  
+-  **Azul Claro:** Abacate Hass (7,20 ha)  
+-  **Azul Escuro:** Pecuária Regenerativa (13,75 ha)  
+-  **Cinza:** Áreas de Apoio/Restrição (3,01 ha)  
+-  **Verde Claro:** Áreas de Preservação Permanente  
 
 ---
 
