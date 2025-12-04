@@ -2,7 +2,7 @@
 sidebar_position: 2
 slug: /sprint-2/capex-opex
 title: Planilha de CAPEX e OPEX
-description: "Premissas financeiras, CAPEX, OPEX e receitas projetadas para a Fazenda Modelo (Área Total: 36,43 ha) 
+description: "Premissas financeiras, CAPEX, OPEX e receitas projetadas para a Fazenda Modelo (Área Total: 36,43 ha)"
 ---
 
 # Planilha de CAPEX e OPEX
