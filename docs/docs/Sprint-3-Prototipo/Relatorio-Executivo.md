@@ -74,8 +74,10 @@ Para a construção deste cenário, foram consideradas as seguintes variáveis m
 Foi decidido que a fazenda será dividida em zonas específicas para otimizar o uso da terra e maximizar a produtividade. As áreas de cultivo de café e abacate foram alocadas em terrenos com melhores condições de solo e clima, enquanto as áreas destinadas à pecuária foram posicionadas em regiões mais adequadas para o pasto. Além disso, foram criadas zonas de preservação ambiental para garantir a sustentabilidade do projeto.
 
 - Premissas técnicas e de manejo
+Foram estabelecidas premissas claras para o manejo das culturas e da pecuária, incluindo práticas agrícolas sustentáveis. Para o gado por exemplo, adotamos um sistema de pastejo rotacionado para melhorar a saúde do solo e a produtividade do pasto.
 
 - Estratégia comercial (mercados e canais)
+O produto produzido sera comercializado em mercados premium, focando em consumidores que valorizam práticas sustentáveis. Utilizaremos canais de venda diretos, como feiras orgânicas e parcerias com supermercados locais, além de explorar o comércio online para alcançar um público mais amplo.
 
 ## Roadmap de Implantação
 - Fase 1: [2026]

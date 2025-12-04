@@ -111,7 +111,7 @@ O Programa de Certificação de Produtos Agropecuários (Certifica Minas), coord
 
 ---
 
-### 6. GlobalG.A.P. (Good Agricultural Practices)
+### 6. Global G.A.P. (Good Agricultural Practices)
 O GlobalG.A.P. é a norma de referência mundial para Boas Práticas Agrícolas, sendo pré-requisito mandatório para exportação de produtos frescos ("in natura") para a União Europeia.
 
 * **Relevância para a Agrominas:** É fundamental, especificamente para a cultura do **Abacate**. Enquanto o café pode ser exportado com Rainforest/FairTrade, o mercado internacional de frutas frescas exige garantias estritas de segurança alimentar (*food safety*), rastreabilidade e higiene que apenas o GlobalG.A.P. provê.
