@@ -55,7 +55,7 @@ As informações aqui descritas foram definidas a partir do [Estudo de Referênc
     |
 | **CAFÉ ARÁBICA (SAF)**   | 13,47 ha       | Área C (10,70 ha) + Área E Superior (2,77 ha)        | 39,1%       | Alocação na altitude mais alta (>950m) para segurança máxima contra geadas.                                 |
 | **ABACATE HASS (SAF)**   | 7,20 ha        | Áreas A (4,40 ha) + B (2,80 ha)                      | 20,9%       | Uso de áreas de risco moderado (950m–1050m). O abacateiro possui resiliência levemente superior ao café.    |
-| **SSP PECUÁRIA**         | 13,75 ha       | Áreas F, G, D Baixa e E Inferior                     | 40,0%       | Uso de áreas de baixa altitude (<900m) e restrição (terrenos pedregosos/declivosos), reduzindo custos.      |
+| **SSP PECUÁRIA**         | 13,75 ha       | Áreas F, G, D Baixa e E Inferior                     | 40,0%       | Uso de áreas de baixa altitude (`<900m`) e restrição (terrenos pedregosos/declivosos), reduzindo custos.      |
 | **TOTAL PRODUTIVO**      | **34,42 ha**   | —                                                    | **100%**    | —                                                                                                           |
 | **Áreas de Apoio/Restrição** | **2,01 ha** | Áreas de Pedras (D Alta), Estradas, APP/RL           | **5,5%**    | Inclui infraestrutura e áreas de preservação.                                                               |
 | **TOTAL GERAL**          | **36,43 ha**   | —                                                    | **100%**    | Área total da propriedade.                                                                                 |
