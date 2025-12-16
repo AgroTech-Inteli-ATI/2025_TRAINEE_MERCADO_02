@@ -4,89 +4,109 @@ slug: /sprint-3/relatorio-executivo
 description: "Template do relatório executivo final do projeto"
 ---
 
-# Relatório Executivo Final 
+# Relatório Executivo Final
 
 Esse documento tem como objetivo apresentar um resumo executivo do projeto desenvolvido, destacando os principais pontos, decisões e resultados alcançados. Ele serve como um guia rápido para stakeholders e interessados, fornecendo uma visão geral clara e concisa do projeto. Estão incluídos os principais indicadores, decisões estratégicas e o roadmap para a implementação futura.
 
 ## Visão Geral
+
 - Objetivo do projeto e escopo
-O objetivo principal do projeto foi desenvolver um modelo para uma fazenda modelo para a empresa Agrominas, visando a sustentabilidade econômica, social e ambiental. O escopo abrangeu desde a análise de viabilidade técnica e financeira até o planejamento territorial e estratégias comerciais. Ao final do projeto foi desenvolvido um plano detalhado para a implementação da fazenda modelo e um mapa interativo para visualização dos dados.
+  O objetivo principal foi estruturar uma fazenda modelo para a Agrominas com sustentabilidade econômica, social e ambiental. O escopo percorreu viabilidade técnica e financeira, planejamento territorial, premissas de manejo, estratégia comercial e o desenho de um roadmap de implantação com suporte visual (mapa interativo e dashboards).
 
 - Localização e área total
-A fazendo tem como localização a região do sul de minas, contendo 36.4 hectares. Tal área foi separada em diferentes zonas de uso, balanceando a produção de café e abacate, com a criação de gado de corte e áreas mais baixas, com objetivo principal de produzir adubo de forma organica para a fazenda.
+  A área de referência está no sul de Minas Gerais, com 36,4 hectares. O zoneamento equilibra café e abacate em talhões de melhor aptidão, pecuária de corte nas áreas mais baixas para geração de adubo orgânico e faixas de preservação para serviços ecossistêmicos.
 
 - Sistemas produtivos adotados (SAF/SSP/ILPF)
-
-Adotamos o sistema de Integração Lavoura-Pecuária-Floresta (ILPF) para otimizar o uso da terra, melhorar a produtividade e promover a sustentabilidade ambiental. Esse sistema permite a combinação de culturas agrícolas, criação de gado e plantio de árvores, resultando em benefícios econômicos e ecológicos. (Não tenho certeza se é ILPF, pode ajustar conforme o que foi feito Resolver isso amanhã)
+  Optou-se por Integração Lavoura-Pecuária-Floresta (ILPF), combinando culturas perenes (café e abacate), pastagens rotacionadas e árvores de suporte, para diversificação de receita, melhoria de solo e resiliência climática.
 
 ## Indicadores-Chave
-- CAPEX, OPEX, Receita (ano maduro)
+
+- CAPEX inicial consolidado: R$ 1.311.820 (Ano 0).
+- OPEX médio em regime maduro (anos 7–10, c/ inflação 5% a.a.): R$ 548.396/ano; OPEX base Ano 1: R$ 230.414.
+- Receita em regime maduro: em consolidação por cultura (café, abacate e pecuária) para fechar TIR e VPL.
+- Break-even financeiro alvo: ~R$ 680.000/ano (OPEX maduro + depreciação linear de CAPEX em 10 anos).
+- WACC recomendado para desconto: 12% a 15%; certificações podem adicionar prêmio de +5% a +15% na receita.
+- Indicadores de retorno (TIR, payback, VPL): em cálculo na planilha de fluxo de caixa a partir dos cenários Base/Otimista/Conservador.
 
 ---
+
 id: resumo-executivo-agrominas
 title: Resumo Executivo Financeiro
 sidebar_label: Resumo Executivo
 slug: /financeiro/resumo-executivo
+
 ---
 
 ## Investimento Inicial (CAPEX)
 
-O capital necessário para a implantação total do projeto no Ano 0 totaliza **R$ 1.311.820,00**. O maior peso do investimento recai sobre a Pecuária (estruturas e animais) e Infraestrutura Agrícola.
+O capital necessário para a implantação total no Ano 0 totaliza **R$ 1.311.820**, concentrado em Pecuária e Máquinas.
 
-| Categoria | Detalhes | Investimento (R$) | % do Total |
-| :--- | :--- | :--- | :--- |
-| **Pecuária** | Animais, cercas, curral e galpão | R$ 408.000 | 31,1% |
-| **Máquinas** | Trator 75cv, implementos e veículos | R$ 375.000 | 28,6% |
-| **Infraestrutura** | Preparo de solo e irrigação (gotejamento) | R$ 364.960 | 27,8% |
-| **Mudas** | Café e Abacate | R$ 163.860 | 12,5% |
-| **TOTAL** | **Investimento Consolidado** | **R$ 1.311.820** | **100%** |
+| Categoria          | Detalhes                                  | Investimento (R$) | % do Total |
+| :----------------- | :---------------------------------------- | :---------------- | :--------- |
+| **Pecuária**       | Animais, cercas, curral e galpão          | R$ 408.000        | 31,1%      |
+| **Máquinas**       | Trator 75cv, implementos e veículos       | R$ 375.000        | 28,6%      |
+| **Infraestrutura** | Preparo de solo e irrigação (gotejamento) | R$ 364.960        | 27,8%      |
+| **Mudas**          | Café e abacate                            | R$ 163.860        | 12,5%      |
+| **TOTAL**          | **Investimento consolidado**              | **R$ 1.311.820**  | **100%**   |
 
 :::note Premissas de CAPEX
-Considerou-se irrigação por gotejamento a R$ 10.000/ha e aquisição de maquinário novo compatível com a escala de 36 ha.
+Irrigação por gotejamento (~R$ 10.000/ha), maquinário novo dimensionado para 36 ha e formação inicial completa no Ano 0.
 :::
 
 ## Custos Operacionais (OPEX) - Evolução 10 Anos
 
-O OPEX apresenta um comportamento crescente devido a dois fatores principais: inflação composta de 5% a.a. e maturação das lavouras (aumento de insumos/mão de obra a partir do Ano 5 para café e Ano 7 para abacate).
+O OPEX cresce com a inflação composta de 5% a.a. e com a maturação das culturas (café em produção plena a partir do Ano 5; abacate a partir do Ano 7).
 
 ### Evolução dos Custos (Resumo)
 
-| Período | Café (R$) | Abacate (R$) | Pecuária (R$) | Fixos (R$) | Total Anual |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Ano 1** | 121.230 | 28.800 | 27.000 | 53.384 | **R$ 230.414** |
-| **Ano 5** | 296.349 | 61.262 | 32.819 | 53.384 | **R$ 443.814** |
-| **Ano 10** | 378.225 | 111.696 | 41.886 | 53.384 | **R$ 585.191** |
+| Período    | Café (R$) | Abacate (R$) | Pecuária (R$) | Fixos (R$) | Total Anual    |
+| :--------- | :-------- | :----------- | :------------ | :--------- | :------------- |
+| **Ano 1**  | 121.230   | 28.800       | 27.000        | 53.384     | **R$ 230.414** |
+| **Ano 5**  | 296.349   | 61.262       | 32.819        | 53.384     | **R$ 443.814** |
+| **Ano 10** | 378.225   | 111.696      | 41.886        | 53.384     | **R$ 585.191** |
 
-**Salto Operacional:** Nota-se um aumento expressivo de 92% nos custos entre o Ano 1 e o Ano 5, impulsionado pela entrada do Café em regime de produção plena (custo sobe de R$ 9k/ha para R$ 18,1k/ha nominais).
+**Salto operacional:** aumento de ~92% entre Ano 1 e Ano 5, puxado pelo café entrando em regime pleno (custo nominal ~R$ 18,1k/ha).
 
 ## Análise de Sensibilidade e Premissas
 
-Para a construção deste cenário, foram consideradas as seguintes variáveis macroeconômicas e técnicas:
+Variáveis de base para cenários Base/Otimista/Conservador:
 
-* **Inflação:** 5% ao ano sobre todos os custos operacionais.
-* **Taxa Mínima de Atratividade (TMA):** 12% a 15%.
-* **Certificações:** Previsão de prêmio de +5% a +15% na receita (não contabilizado como redução de custo, mas como upside de venda).
-* **Tributário:** FUNRURAL de 1,5% sobre a receita bruta.
-
+- **Inflação:** 5% a.a. sobre OPEX.
+- **TMA/WACC:** 12% a 15% para desconto de fluxo.
+- **Certificações:** prêmio potencial de +5% a +15% em preço de venda (upsides não embutidos no custo).
+- **Tributação:** FUNRURAL de 1,5% sobre receita bruta.
+- **Sensibilidade crítica:** preço e produtividade do café deslocam o ponto de equilíbrio em ~R$ 60–70 mil/ano a cada ±10% de variação.
 
 ## Principais Decisões
+
 - Planejamento territorial (mapa conceitual)
-Foi decidido que a fazenda será dividida em zonas específicas para otimizar o uso da terra e maximizar a produtividade. As áreas de cultivo de café e abacate foram alocadas em terrenos com melhores condições de solo e clima, enquanto as áreas destinadas à pecuária foram posicionadas em regiões mais adequadas para o pasto. Além disso, foram criadas zonas de preservação ambiental para garantir a sustentabilidade do projeto.
+  Zoneamento por vocação de solo e relevo: talhões de café e abacate em áreas de maior aptidão, pecuária nas cotas mais baixas, faixas de APP e corredores ecológicos preservados.
 
 - Premissas técnicas e de manejo
-Foram estabelecidas premissas claras para o manejo das culturas e da pecuária, incluindo práticas agrícolas sustentáveis. Para o gado por exemplo, adotamos um sistema de pastejo rotacionado para melhorar a saúde do solo e a produtividade do pasto.
+  Pastejo rotacionado para gado de corte, adubação orgânica oriunda dos dejetos, manejo de irrigação por gotejamento e cronograma de tratos culturais alinhado às curvas de maturação de café (Ano 5) e abacate (Ano 7).
 
 - Estratégia comercial (mercados e canais)
-O produto produzido sera comercializado em mercados premium, focando em consumidores que valorizam práticas sustentáveis. Utilizaremos canais de venda diretos, como feiras orgânicas e parcerias com supermercados locais, além de explorar o comércio online para alcançar um público mais amplo.
+  Foco em mercados premium e compradores que remuneram sustentabilidade; canais diretos (feiras, parceiros regionais) e venda digital para ampliar margem; certificações como alavanca de preço.
 
 ## Roadmap de Implantação
-- Fase 1: [2026]
-- Fase 2: [2027]
-- Fase 3: [2028]
+
+- Fase 1 (2026): execução do CAPEX completo, formação das áreas, aquisição de maquinário, plantio inicial e estruturação de irrigação.
+- Fase 2 (2027): ramp-up operacional, implantação do pastejo rotacionado, ajustes de manejo, início de certificações.
+- Fase 3 (2028): entrada em produção crescente, consolidação comercial e preparação para regime maduro (cenário Base/Otimista/Conservador em cálculo).
 
 ## Riscos e Mitigações
-- [lista com responsáveis]
+
+- Preço do café: contratos com cooperativas e diversificação com abacate para diluir volatilidade.
+- Escalada de insumos/irrigação: negociação anual, manutenção preventiva e monitoramento agronômico para otimizar doses.
+- Atraso produtivo: cronograma de tratos e reforço de assistência técnica para cumprir marcos dos Anos 5 e 7.
+- Clima adverso: irrigação localizada, faixas de arborização e seguro rural onde aplicável.
+
+Responsáveis e owners: gestor da fazenda (coordenação geral), agrônomo (manejo/insumos), responsável financeiro (premissas e sensibilidade), comercial (canais e certificações).
 
 ## Anexos
-- Links para dashboards e mapas
 
+- Links para dashboards e mapas
+- [CAPEX e OPEX detalhados](/sprint-2/capex-opex)
+- [Break-even, TIR e VPL](/sprint-2/break-even-tir)
+- [Certificações sustentáveis](/sprint-2/certificacoes-sustentaveis)
+- [Contexto e recapitulação](/sprint-2/contexto-recapitulacao)
