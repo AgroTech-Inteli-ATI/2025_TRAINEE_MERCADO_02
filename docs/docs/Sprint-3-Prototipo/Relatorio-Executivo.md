@@ -105,7 +105,7 @@ Responsáveis e owners: gestor da fazenda (coordenação geral), agrônomo (mane
 
 ## Anexos
 
-- Links para dashboards e mapas
+- [Dashboard](Sprint-3-Prototipo\Definicao_Produto.md)
 - [CAPEX e OPEX detalhados](/sprint-2/capex-opex)
 - [Break-even, TIR e VPL](/sprint-2/break-even-tir)
 - [Certificações sustentáveis](/sprint-2/certificacoes-sustentaveis)

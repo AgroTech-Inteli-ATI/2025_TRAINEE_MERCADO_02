@@ -116,7 +116,7 @@ O resultado não será apenas um relatório, mas um **protótipo de dashboard in
 |------------|------|--------|
 | Sprint 1 | 07/11 | Concluído |
 | Sprint 2 | 19/11 | Concluído |
-| Sprint 3 | 05/12 | Concluido |
+| Sprint 3 | 05/12 | Concluído |
 
 ## Estrutura da Documentação
 
@@ -142,13 +142,12 @@ Esta documentação está organizada em três sprints, cada uma com seus entreg�
 - [Definição do Protótipo/Dashboard](/sprint-3/definicao-produto)
 - [Relatório Executivo Final](/sprint-3/relatorio-executivo)
 - [Análise Crítica](/sprint-3/analise-critica)
-- [Mapa de Variáveis e Precificação](/sprint-3/mapa-variaveis-precificacao)
 - [Sugestões de Expansão e Parcerias](/sprint-3/sugestoes-expansoes)
 
 ## Ferramentas Utilizadas
 
 - **Geoprocessamento**: Google Earth, QGIS
 - **Design/Protótipo**: Figma
-- **Modelagem Financeira**: Excel/Google Sheets, Python (opcional)
+- **Modelagem Financeira**: Excel/Google Sheets, Python 
 - **Documentação**: Docusaurus
-- **Fontes de Dados**: Embrapa, MAPA, IMA, Epamig, associações de produtores
+- **Fontes de Dados**: Embrapa, MAPA, IMA, Epamig, associações de produtores e etc...
