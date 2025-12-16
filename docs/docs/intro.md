@@ -114,9 +114,9 @@ O resultado não será apenas um relatório, mas um **protótipo de dashboard in
 
 | Entregável | Data | Status |
 |------------|------|--------|
-| Sprint 1 | 07/11 | ⏳ Pendente |
-| Sprint 2 | 19/11 | ⏳ Pendente |
-| Sprint 3 | 05/12 | ⏳ Pendente |
+| Sprint 1 | 07/11 | Concluído |
+| Sprint 2 | 19/11 | Concluído |
+| Sprint 3 | 05/12 | Concluido |
 
 ## Estrutura da Documentação
 

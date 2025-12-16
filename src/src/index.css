@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Farm-inspired earth tones palette */
+    --background: 42 45% 96%;
+    --foreground: 30 25% 15%;
+
+    --card: 40 30% 98%;
+    --card-foreground: 30 25% 15%;
+
+    --popover: 40 30% 98%;
+    --popover-foreground: 30 25% 15%;
+
+    /* Primary: Forest green for vegetation/sustainability */
+    --primary: 142 52% 32%;
+    --primary-foreground: 40 30% 98%;
+
+    /* Secondary: Warm earth brown */
+    --secondary: 30 35% 45%;
+    --secondary-foreground: 40 30% 98%;
+
+    /* Muted: Light beige/cream */
+    --muted: 42 35% 88%;
+    --muted-foreground: 30 25% 40%;
+
+    /* Accent: Golden amber for highlights */
+    --accent: 38 85% 55%;
+    --accent-foreground: 30 25% 15%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 40 30% 98%;
+
+    --border: 42 30% 85%;
+    --input: 42 30% 85%;
+    --ring: 142 52% 32%;
+
+    --radius: 0.75rem;
+
+    /* SAF specific (Agroforestry) */
+    --saf-green: 142 60% 40%;
+    --saf-light: 142 45% 85%;
+
+    /* SSP specific (Silvopastoral) */
+    --ssp-brown: 30 40% 50%;
+    --ssp-light: 30 35% 88%;
+
+    /* Composting */
+    --compost-amber: 38 75% 45%;
+    --compost-light: 38 60% 90%;
+
+    /* Infrastructure */
+    --infra-gray: 30 15% 55%;
+    --infra-light: 30 10% 90%;
+
+    /* Gradients */
+    --gradient-earth: linear-gradient(135deg, hsl(142 52% 32%), hsl(38 85% 55%));
+    --gradient-field: linear-gradient(180deg, hsl(142 45% 85%), hsl(42 45% 96%));
+    
+    /* Shadows with earth tones */
+    --shadow-soft: 0 2px 8px hsl(30 25% 15% / 0.08);
+    --shadow-medium: 0 4px 16px hsl(30 25% 15% / 0.12);
+    --shadow-strong: 0 8px 32px hsl(30 25% 15% / 0.16);
+
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .dark {
+    --background: 30 25% 8%;
+    --foreground: 40 30% 95%;
+
+    --card: 30 25% 10%;
+    --card-foreground: 40 30% 95%;
+
+    --popover: 30 25% 10%;
+    --popover-foreground: 40 30% 95%;
+
+    --primary: 142 52% 45%;
+    --primary-foreground: 30 25% 8%;
+
+    --secondary: 30 35% 25%;
+    --secondary-foreground: 40 30% 95%;
+
+    --muted: 30 20% 18%;
+    --muted-foreground: 42 30% 65%;
+
+    --accent: 38 85% 60%;
+    --accent-foreground: 30 25% 8%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 40 30% 95%;
+
+    --border: 30 20% 20%;
+    --input: 30 20% 20%;
+    --ring: 142 52% 45%;
+
+    --saf-green: 142 55% 50%;
+    --saf-light: 142 45% 25%;
+
+    --ssp-brown: 30 40% 45%;
+    --ssp-light: 30 35% 22%;
+
+    --compost-amber: 38 75% 55%;
+    --compost-light: 38 60% 25%;
+
+    --infra-gray: 30 15% 50%;
+    --infra-light: 30 10% 20%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
