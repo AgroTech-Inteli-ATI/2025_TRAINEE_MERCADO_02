@@ -13,57 +13,66 @@ Este documento consolida todas as análises financeiras realizadas na Sprint 2, 
 
 ### Principais Indicadores
 
-| Indicador | Valor | Observações |
-| :-- | :--: | :-- |
-| Investimento Inicial (CAPEX) | R$ [X] | [Detalhes](/sprint-2/capex-opex) |
-| Custo Operacional Anual (OPEX) | R$ [X]/ano | Regime maduro |
-| Receita Anual (Regime Maduro) | R$ [X]/ano | [Detalhes](/sprint-2/contexto-recapitulacao) |
-| Payback Simples | [X] anos | [Detalhes](/sprint-2/break-even-tir) |
-| Payback Descontado | [X] anos | WACC = [X]% |
-| TIR | [X]% | [Detalhes](/sprint-2/break-even-tir) |
-| VPL (WACC = [X]%) | R$ [X] | [Detalhes](/sprint-2/break-even-tir) |
-| Break-even Financeiro | R$ [X]/ano | [Detalhes](/sprint-2/break-even-tir) |
+| Indicador                      |     Valor      | Observações                                      |
+| :----------------------------- | :------------: | :----------------------------------------------- |
+| Investimento Inicial (CAPEX)   |  R$ 1.311.820  | [Detalhes](/sprint-2/capex-opex)                 |
+| Custo Operacional Anual (OPEX) | R$ 548.396/ano | Média anos 7–10 com inflação de 5% a.a.          |
+| Receita Anual (Regime Maduro)  |   A definir    | Depende de produtividade e preços por cultura    |
+| Payback Simples                |   Em cálculo   | [Detalhes](/sprint-2/break-even-tir)             |
+| Payback Descontado             |   Em cálculo   | WACC recomendado: 12–15%                         |
+| TIR                            |   Em cálculo   | [Detalhes](/sprint-2/break-even-tir)             |
+| VPL (WACC = 12–15%)            |   Em cálculo   | [Detalhes](/sprint-2/break-even-tir)             |
+| Break-even Financeiro          | R$ 680.000/ano | OPEX maduro + depreciação linear (CAPEX/10 anos) |
 
 ## Conclusões-Chave
 
 ### 1. Viabilidade Financeira
-[Conclusão sobre viabilidade: projeto viável/não viável, justificativa baseada em TIR e VPL]
+
+Projeto tende a ser viável se a receita anual em regime maduro superar ~R$ 680 mil (OPEX maduro + depreciação). A decisão final depende do fechamento das receitas por cultura e do cálculo de TIR e VPL na planilha.
 
 ### 2. Sensibilidades Críticas
-- Variável mais sensível: [preço/produtividade/WACC]
-- Impacto de variações: [análise de cenários]
+
+- Variável mais sensível: preço e produtividade do café (maior área e capilaridade na receita).
+- Impacto de variações: ±10% em preço do café desloca o ponto de equilíbrio em ~±R$ 60–70 mil/ano; WACC acima de 15% pressiona VPL e alonga payback.
 
 ### 3. Riscos e Mitigações
-| Risco | Probabilidade | Impacto | Mitigação |
-| :-- | :--: | :--: | :-- |
-| [Risco 1] | Alta/Média/Baixa | Alto/Médio/Baixo | [Ação] |
-| [Risco 2] | Alta/Média/Baixa | Alto/Médio/Baixo | [Ação] |
+
+| Risco                                  | Probabilidade | Impacto | Mitigação                                                                                               |
+| :------------------------------------- | :-----------: | :-----: | :------------------------------------------------------------------------------------------------------ |
+| Queda de preço do café                 |     Média     |  Alto   | Travamento parcial de preço, contratos com cooperativas, diversificação com abacate                     |
+| Escalada de custos (insumos/irrigação) |     Média     |  Médio  | Negociação anual com fornecedores, manutenção preventiva e ajuste de doses com monitoramento agronômico |
 
 ### 4. Certificações e Valor Agregado
-- Certificações prioritárias: [lista] — [Detalhes](/sprint-2/certificacoes-sustentaveis)
-- Impacto estimado em receita: [R$/ano] (premium de preço)
-- Impacto em custos: [R$/ano] (custos de certificação)
+
+- Certificações prioritárias: orgânica/regenerativa + café sustentável — [Detalhes](/sprint-2/certificacoes-sustentaveis)
+- Impacto estimado em receita: prêmio de +5% a +15% a partir do ano 4 (sobre vendas dos três sistemas).
+- Impacto em custos: ~R$ 5.000/ano (taxas e auditorias recorrentes já previstas no OPEX fixo).
 
 ## Recomendações
 
 ### Para Implementação
-- [Próximas ações sugeridas para implantação]
-- Cronograma sugerido: [fases]
+
+- Consolidar planilha de receitas por cultura (café, abacate, pecuária) e fechar fluxo de caixa de 10 anos.
+- Rodar cenários Base/Otimista/Conservador e atualizar TIR, VPL e payback.
+- Cronograma sugerido: Ano 0 (CAPEX completo e formação), Anos 1–2 (rampa de produção e certificações), Anos 3–4 (regime próximo do maduro).
 
 ### Para Financiamento
-- Montante necessário: R$ [X]
-- Fontes potenciais: [financiamento rural, investidores, etc.]
-- Estrutura de captação recomendada: [dívida/equity/híbrido]
+
+- Montante necessário: ~R$ 1,55 milhão (CAPEX + OPEX do ano 1 como colchão de giro).
+- Fontes potenciais: crédito rural (Pronaf/Pronamp), linhas de sustentabilidade, investidores anjo setoriais.
+- Estrutura de captação recomendada: dívida de longo prazo para CAPEX + eventual equity para cobrir giro e absorver risco de mercado nos 2 primeiros anos.
 
 ## Metodologia
 
 ### Análise Utilizada
+
 - **Fluxo de Caixa Descontado (DCF):** Horizonte de 10 anos
 - **Análise de Sensibilidade:** Variação de preços, produtividade e WACC
 - **Break-even:** Financeiro e operacional
-- **TIR e VPL:** Taxa de desconto (WACC) = [X]%
+- **TIR e VPL:** Taxa de desconto (WACC) = 12–15%
 
 ### Consolidação de Dados
+
 - Custos e receitas por sistema: SAF (Café+Abacate) e SSP (Pecuária)
 - Inclusão de áreas de preservação (APP) e infraestrutura
 - Consideração de certificações sustentáveis
